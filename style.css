@@ -1,0 +1,26 @@
+body {
+    font-family: Monaco, "Lucida Console", monospace;
+}
+
+h1 {
+    color: #192F01;
+}
+
+h2 {
+    color: #E0475B;
+}
+
+p {
+    background-color: #F8EFEA;
+    padding: 10px;
+}
+
+ul, ol {
+    background-color: #F8EFEA;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+
+
